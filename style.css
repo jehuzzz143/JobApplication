@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/*Fonts*/
+/*font-family: 'VT323', monospace;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Press Start 2P', cursive;*/
+
+.parallax {
+  /* The image used */
+  background-image: url("../pictures/pacify.png");
+  /* Set a specific height */
+  min-height: 500px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_second{
+  /* The image used */
+  background-image: url("../pictures/p2.jfif");
+  /* Set a specific height */
+  min-height: 200px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-slogan{
+  font-family: 'Bungee Shade', cursive;
+  font-size: 4.5rem;
+  padding-top: 180px;
+  color:black;
+  text-shadow: 20px 20px 70px rgba(150, 150, 150, 0.54);
+   background: -webkit-linear-gradient(#FFFFFF,black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.btn-explore{
+  font-family: 'VT323', monospace;
+  font-size: 2.3rem;
+  background-color: white;
+  transition-duration: 0.5s;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-top: 80px;
+  border-radius: 0px;
+  font-weight: bold;
+}
+.btn-explore:hover{
+  background-color:#C0DCE1;
+  color: white;
+  text-decoration: none;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.main_info{
+  font-size: 20px;
+  margin: 0;
+  font-family: 'VT323', monospace;
+}
+
+.vertical_center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  font-size: 20px;
+}
+
+.p_information {
+  margin:1.4rem;
+  font-size: 1.4rem;
+  text-align: justify;
+  font-family: 'VT323', monospace;
+}
+
+.img_profile{
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.title_header{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 2rem;
+}

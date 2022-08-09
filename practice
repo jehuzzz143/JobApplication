@@ -1,0 +1,133 @@
+<div class="container">
+  <div class="container  ">
+    <center>
+    <p class="title_header">ACADEMIC PROJECTS</p>
+    </center>
+  </div>
+  <div class="row">
+    <div class="col-5   no-padding" >   <!-- data-aos="fade-right" -->
+      <iframe src="https://www.youtube.com/embed/gozZTajwUn0?start=78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col   text-wrap no-padding" > <!-- data-aos="fade-left" -->
+      <h5 class="project_header" style="text-align:center;">Online Booking and Information Management
+       System with SMS Notification for Ridges and Clouds</h5>
+       <p class="project_body">This is a web application where you can manage the booking of customers and the information of the company. It provide easy access to the information of customers and a booking system which they can monitor the bookings status in one system only. The system can provide sales report, Calendar of the company and Notifications through email and phone number.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col  no-padding" > <!-- data-aos="fade-right" -->
+      <h5 class="project_header" style="text-align:center;">
+        Online Booking and Information Management System with SMS Notification for Ridges and Clouds
+      </h5>
+      <p class="project_body">This is a web application where you can manage the booking of customers and the information of the company. It provide easy access to the information of customers and a booking system which they can monitor the bookings status in one system only. The system can provide sales report, Calendar of the company and Notifications through email and phone number.</p>
+
+    </div>
+    <div class="col-5  text-wrap no-padding"  > <!-- data-aos="fade-left" -->
+      <iframe style="float:right;"src="https://www.youtube.com/embed/iuWQQwfP99g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-5   no-padding" > <!--  data-aos="fade-right" -->
+      <iframe  src="https://www.youtube.com/embed/IUzz-owV8PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col   text-wrap no-padding" data-aos="fade-left">
+      <h5 class="project_header" style="text-align:center;">Online Booking and Information Management
+       System with SMS Notification for Ridges and Clouds</h5>
+       <p class="project_body">This is a web application where you can manage the booking of customers and the information of the company. It provide easy access to the information of customers and a booking system which they can monitor the bookings status in one system only. The system can provide sales report, Calendar of the company and Notifications through email and phone number.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col  no-padding" > <!-- data-aos="fade-right" -->
+      <h5 class="project_header" style="text-align:center;">
+        Online Booking and Information Management System with SMS Notification for Ridges and Clouds
+      </h5>
+      <p class="project_body">This is a web application where you can manage the booking of customers and the information of the company. It provide easy access to the information of customers and a booking system which they can monitor the bookings status in one system only. The system can provide sales report, Calendar of the company and Notifications through email and phone number.</p>
+
+    </div>
+    <div class="col-5  text-wrap no-padding" >  <!-- data-aos="fade-left" width="470" height="250"  -->
+      <iframe src="https://www.youtube.com/embed/I4p_h8ottT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-5   no-padding" > <!-- data-aos="fade-right" -->
+      <iframe  src="https://www.youtube.com/embed/nD0QO74jKnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col   text-wrap no-padding" > <!-- data-aos="fade-left" -->
+      <h5 class="project_header" style="text-align:center;">Online Booking and Information Management
+       System with SMS Notification for Ridges and Clouds</h5>
+       <p class="project_body">This is a web application where you can manage the booking of customers and the information of the company. It provide easy access to the information of customers and a booking system which they can monitor the bookings status in one system only. The system can provide sales report, Calendar of the company and Notifications through email and phone number.</p>
+    </div>
+  </div> 
+</div>
+<br><br>
+<!-- Paralax -->
+<div class="container-fluid" style="width:100%;" >
+  <div class="parallax_second" style="width:100%;">
+    <div class="container">
+      <center>
+      <!--   <p class="text-slogan_second"> ACADEMIC PROJECTS</p>  -->
+
+      </center>
+    </div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <div class="container ">
+            <div class="row ">
+              <div class="col-1 ">
+                 <i class="fas fa-map-marked vertical_center"></i>
+              </div>
+              <div class="col ">
+                <p class="main_info"> <!-- 18 N Eustaquio St, Octagon Village, Dela Paz, Pasig City --> </p>
+              </div>
+            </div>
+          </div>
+          <div class="container ">
+            <div class="row ">
+              <div class="col-1 ">
+                 <i class="fas fa-mail-bulk vertical_center"></i>
+              </div>
+              <div class="col ">
+                <p class="main_info">  Jeombrog@student.fatima.edu.ph <br> Jehuzzz143@Gmail.com </p>
+              </div>
+            </div>
+          </div>
+          <div class="container ">
+            <div class="row ">
+              <div class="col-1 ">
+                 <i class="fas fa-phone-volume vertical_center"></i>
+              </div>
+              <div class="col ">
+                <p class="main_info">  +639212765842 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col">
+          3213213
+        </div>
+        <div class="col">
+          213123
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <!-- Paralax -->
+<div class="container-fluid" style="width:100%;" >
+  <div class="parallax_second" style="width:100%;">
+    <div class="container">
+      <center>
+      <!--   <p class="text-slogan_second"> ACADEMIC PROJECTS</p>  -->
+
+      </center>
+    </div>
+  </div>
+</div>

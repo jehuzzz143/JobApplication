@@ -1,0 +1,60 @@
+body,html{
+/*background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);*/
+background: rgb(254,172,94);
+background: linear-gradient(90deg, rgba(254,172,94,1) 0%, rgba(199,121,208,1) 50%, rgba(75,192,200,1) 100%);
+}
+.loginform{
+background: #f7f7f7 ;
+width: 25%;
+margin-top: 100px;
+margin-bottom: 20%;
+border-radius: 5px;
+padding: 20px;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.loginform h1{
+font-family: 'Poppins' sans-serif;
+font-weight: bold;	
+font-size: 23px;
+color: #292b2c;
+padding: 20px;
+text-align: center;
+}
+.showpass{
+    border:none;
+    padding: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    text-align: right;
+}
+.showpass input[type=checkbox]{
+    float: right;
+    margin: 5px 5px;
+}
+.no-button{
+    background:none;
+    border: none;
+    margin:0px;
+    padding: 0px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    background-color: #e09f5b;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.container input[type="password"],.container input[type="email"],.container input[type="text"]
+{
+    color:grey;
+    font-family: 'Poppins', sans-serif;
+    width: 90%;
+    padding: 10px 20px;
+    margin: 5px 0px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
