@@ -157,7 +157,7 @@
 
 <!-- Projects -->
 <br><br>
-<!-- <div class="container project_container " id="project_container">
+<div class="container project_container " id="project_container">
   <div class="container ">
     <center>
     <p class="title_header" >>>  ACADEMIC PROJECTS  <<</p>
@@ -233,7 +233,7 @@
     </div>
   </div>
   
-</div> -->
+</div>
 <div>
   <center><button type="button" class="btn_see" id="see_more"><center>See More</center></button></center>
 </div>
